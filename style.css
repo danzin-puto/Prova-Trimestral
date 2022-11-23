@@ -1,0 +1,25 @@
+body{
+
+    background-color: rgb(0, 217, 255);
+}
+.picole {
+
+    width: 300%;
+    padding-left: 600px;
+    display: block;
+
+}
+
+.picole2 {
+
+    width: 620px;
+}
+.title {
+
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(0, 0, 0, 0.082);
+
+
+}
